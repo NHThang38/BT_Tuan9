@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681846782555",
+    "project_id": "tuan9-c472e",
+    "storage_bucket": "tuan9-c472e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681846782555:android:8e19776f2e6ed399c2dd7e",
+        "android_client_info": {
+          "package_name": "com.example.bttuan9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681846782555-dtbsofhfec7q41em6btt5gig2pi38qtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4rrLd3zLPdYV9ZNIA_vWBBrHZk6NfSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681846782555-dtbsofhfec7q41em6btt5gig2pi38qtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
